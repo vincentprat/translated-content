@@ -69,37 +69,21 @@ Dans un bloc de déclaration {{cssxref("@page")}}, l'utilisation des longueurs l
   - : 1 % de la taille du bloc englobant initial selon la direction de bloc (la direction orthogonale au sens d'écriture) de l'élément racine.
 - `vh`
 
-  - : 1/100
-
-    <sup>e</sup>
-
-    de la hauteur du _viewport_.
+  - : 1/100<sup>e</sup> de la hauteur du _viewport_.
 
 - `vi`
   - : 1 % de la taille du bloc englobant initial selon la direction en ligne (la direction du sens d'écriture) de l'élément racine.
 - `vw`
 
-  - : 1/100
-
-    <sup>e</sup>
-
-    de la largeur du _viewport_.
+  - : 1/100<sup>e</sup> de la largeur du _viewport_.
 
 - `vmin`
 
-  - : 1/100
-
-    <sup>e</sup>
-
-    du côté le plus petit du _viewport_.
+  - : 1/100<sup>e</sup> du côté le plus petit du _viewport_.
 
 - `vmax`
 
-  - : 1/100
-
-    <sup>e</sup>
-
-    du côté le plus grand du _viewport_.
+  - : 1/100<sup>e</sup> du côté le plus grand du _viewport_.
 
 #### Unités de longueur absolues
 
@@ -117,11 +101,7 @@ Pour les périphériques ayant un nombre de points par pouce élevé, les pouces
   - : Un millimètre. Pour l'affichage sur écran, le nombre de pixels par millimètre est déterminé par l'estimation du système (souvent incorrecte) de la résolution de son affichage.
 - `Q`{{experimental_inline}}
 
-  - : Un quart de millimètre (1/40
-
-    <sup>e</sup>
-
-    de centimètre).
+  - : Un quart de millimètre (1/40<sup>e</sup> de centimètre).
 
 - `cm`
   - : Un centimètre (ou 10 millimètres). Pour l'affichage sur écran, le nombre de pixels par centimètre est déterminé par l'estimation du système (souvent incorrecte) de la résolution de son affichage.
@@ -129,19 +109,11 @@ Pour les périphériques ayant un nombre de points par pouce élevé, les pouces
   - : Un pouce (soit 2,54 centimètres). Pour l'affichage sur écran, le nombre de pixels par pouce est déterminé par l'estimation du système (souvent incorrecte) de la résolution de son affichage.
 - `pt`
 
-  - : Un point pica (soit 1/72
-
-    <sup>e</sup>
-
-    de pouce). Pour l'affichage sur écran, le nombre de pixels par point est déterminé par l'estimation du système (souvent incorrecte) de la résolution de son affichage.
+  - : Un point pica (soit 1/72<sup>e</sup> de pouce). Pour l'affichage sur écran, le nombre de pixels par point est déterminé par l'estimation du système (souvent incorrecte) de la résolution de son affichage.
 
 - `pc`
 
-  - : Un pica (soit 12 points, soit 1/6
-
-    <sup>e</sup>
-
-    de pouce). Pour l'affichage sur écran, le nombre de pixels par pica est déterminé par l'estimation du système (souvent incorrecte) de la résolution de son affichage.
+  - : Un pica (soit 12 points, soit 1/6<sup>e</sup> de pouce). Pour l'affichage sur écran, le nombre de pixels par pica est déterminé par l'estimation du système (souvent incorrecte) de la résolution de son affichage.
 
 - `mozmm` {{non-standard_inline}}, retiré avec Firefox 59
   - : Une unité expérimentale qui tente de représenter exactement un millimètre, quelque soit la taille ou la résolution de l’affichage. C’est rarement ce que nous voulons, mais peut être utile en particulier pour les terminaux mobiles.
